@@ -8,7 +8,7 @@ This repository replaces the previously used website at data.ccamlr.org.
 
 ## Releases and Change Management
 
-The published versions of this repository and the change notes are available through GitHub [Releases](https://github.com/ccamlr/data/releases). Individual data set readme files may contain additional specific version information.
+The published versions of this repository and the change notes are available through GitHub [Releases](https://github.com/ccamlr/data/releases). Individual data set readme files may contain additional specific version information. Some data sets contain a versions subfolder which contain previous versions of the data for reference.
 
 ## Licencing, confidentiality and use
 
