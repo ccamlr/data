@@ -32,6 +32,7 @@ For support please contact the CCAMLR Secretariat at [ccamlr@ccamlr.org](ccamlr@
 | ---- | ---- | ----------- |
 | asd | [link](/geographical_data/asd) | Statistical Areas, Subareas and Divisions |
 | bathymetry | [link](/geographical_data/bathymetry) | GEBCO Bathymetry |
+| cemp | [link](/geographical_data/cemp) | CCAMLR Ecosystem Monitoring Program Sites |
 | eez | [link](/geographical_data/eez) | Exclusive Economic Zones |
 | mpa | [link](/geographical_data/mpa) | Marine Protected Areas |
 | rb | [link](/geographical_data/mpa) | Research Blocks |
