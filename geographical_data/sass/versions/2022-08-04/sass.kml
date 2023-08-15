@@ -2,12 +2,12 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
     <Document>
         <LookAt>
-            <longitude>-71.49908650109205</longitude>
-            <latitude>-72.85540683174736</latitude>
-            <altitude>2354618.7729285676</altitude>
+            <longitude>-71.48387009918332</longitude>
+            <latitude>-72.86068391201303</latitude>
+            <altitude>2355475.4537169165</altitude>
             <heading>0.0</heading>
             <tilt>0.0</tilt>
-            <range>1902655.4722138746</range>
+            <range>1903347.7152251985</range>
             <altitudeMode>clampToGround</altitudeMode>
         </LookAt>
         <NetworkLink>
