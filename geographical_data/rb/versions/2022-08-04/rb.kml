@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <LookAt>
+            <longitude>13.842662712249165</longitude>
+            <latitude>65.52078430406586</latitude>
+            <altitude>5253015.918360046</altitude>
+            <heading>0.0</heading>
+            <tilt>0.0</tilt>
+            <range>4244712.391494019</range>
+            <altitudeMode>clampToGround</altitudeMode>
+        </LookAt>
+        <NetworkLink>
+            <name>Research Blocks</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>An area where catch limits have been applied in research fisheries that is smaller than the Statistical Areas, Subareas and Divisions and also smaller that the Small Scale Research Units</description>
+            <LookAt>
+                <longitude>13.842662712249165</longitude>
+                <latitude>65.52078430406586</latitude>
+                <altitude>5253015.918360046</altitude>
+                <heading>0.0</heading>
+                <tilt>0.0</tilt>
+                <range>4244712.391494019</range>
+                <altitudeMode>clampToGround</altitudeMode>
+            </LookAt>
+            <Url>
+                <href>https://gis.ccamlr.org:443/geoserver/gis/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=gis:research_blocks&amp;styles=research_blocks&amp;height=2048&amp;width=2048&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:false;KMSCORE:40;MODE:refresh;SUPEROVERLAY:false</href>
+                <refreshInterval>0.0</refreshInterval>
+                <viewRefreshMode>onStop</viewRefreshMode>
+                <viewRefreshTime>1.0</viewRefreshTime>
+                <viewBoundScale>1.0</viewBoundScale>
+            </Url>
+        </NetworkLink>
+    </Document>
+</kml>
