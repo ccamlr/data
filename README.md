@@ -35,7 +35,7 @@ For support please contact the CCAMLR Secretariat at [ccamlr@ccamlr.org](ccamlr@
 | cemp | [link](/geographical_data/cemp) | CCAMLR Ecosystem Monitoring Program Sites |
 | eez | [link](/geographical_data/eez) | Exclusive Economic Zones |
 | mpa | [link](/geographical_data/mpa) | Marine Protected Areas |
-| rb | [link](/geographical_data/mpa) | Research Blocks |
-| sass | [link](/geographical_data/mpa) | Special Area for Scientific Study |
-| ssmu | [link](/geographical_data/mpa) | Small Scale Management Units |
-| ssru | [link](/geographical_data/mpa) | Small Scale Research Units |
+| rb | [link](/geographical_data/rb) | Research Blocks |
+| sass | [link](/geographical_data/sass) | Special Area for Scientific Study |
+| ssmu | [link](/geographical_data/ssmu) | Small Scale Management Units |
+| ssru | [link](/geographical_data/ssru) | Small Scale Research Units |
