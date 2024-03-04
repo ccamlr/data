@@ -6,11 +6,11 @@ This data was modified and reprojected by CCAMLR from the original [GEBCO](https
 
 The data files are hosted on the CCMALR GeoServer and available via the following links.
 
-- [GEBCO 2021 10000m resolution](https://gis.ccamlr.org/geoserver/www/GEBCO2023_10000.tif)
-- [GEBCO 2021 5000m resolution](https://gis.ccamlr.org/geoserver/www/GEBCO2023_5000.tif)
-- [GEBCO 2021 2500m resolution](https://gis.ccamlr.org/geoserver/www/GEBCO2023_2500.tif)
-- [GEBCO 2021 1000m resolution](https://gis.ccamlr.org/geoserver/www/GEBCO2023_1000.tif)
-- [GEBCO 2021 500m resolution](https://gis.ccamlr.org/geoserver/www/GEBCO2023_500.tif)
+- [GEBCO 2023 10000m resolution](https://gis.ccamlr.org/geoserver/www/GEBCO2023_10000.tif)
+- [GEBCO 2023 5000m resolution](https://gis.ccamlr.org/geoserver/www/GEBCO2023_5000.tif)
+- [GEBCO 2023 2500m resolution](https://gis.ccamlr.org/geoserver/www/GEBCO2023_2500.tif)
+- [GEBCO 2023 1000m resolution](https://gis.ccamlr.org/geoserver/www/GEBCO2023_1000.tif)
+- [GEBCO 2023 500m resolution](https://gis.ccamlr.org/geoserver/www/GEBCO2023_500.tif)
 
 ## Source data citation
 
