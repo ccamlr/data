@@ -34,7 +34,8 @@ For support please contact the CCAMLR Secretariat at [ccamlr@ccamlr.org](ccamlr@
 | bathymetry | [link](/geographical_data/bathymetry) | GEBCO Bathymetry |
 | cemp | [link](/geographical_data/cemp) | CCAMLR Ecosystem Monitoring Program Sites |
 | eez | [link](/geographical_data/eez) | Exclusive Economic Zones |
-| mpa | [link](/geographical_data/mpa) | Marine Protected Areas |
+| mpa | [link](/geographical_data/mpa) | Marine Protected Areas (MPA) |
+| mpapd | [link](/geographical_data/mpapd) | MPA Planning Domains |
 | rb | [link](/geographical_data/rb) | Research Blocks |
 | sass | [link](/geographical_data/sass) | Special Area for Scientific Study |
 | ssmu | [link](/geographical_data/ssmu) | Small Scale Management Units |

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <LookAt>
+            <longitude>0.38294222883057216</longitude>
+            <latitude>59.4139593922056</latitude>
+            <altitude>1109527.423519068</altitude>
+            <heading>0.0</heading>
+            <tilt>0.0</tilt>
+            <range>896556.3547700292</range>
+            <altitudeMode>clampToGround</altitudeMode>
+        </LookAt>
+        <NetworkLink>
+            <name>CCAMLR_MPA_Planning_Domains</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>Nine planning domains were defined during the 2011 CCAMLR workshop on marine protected areas (SC-CAMLR-XXX, Annex 6). These planning domains provide comprehensive coverage of bioregions in the Southern Ocean and may be used as reporting and auditing units for work related to the development of MPAs and as a means to organise future activities related to this effort.</description>
+            <LookAt>
+                <longitude>0.38294222883057216</longitude>
+                <latitude>59.4139593922056</latitude>
+                <altitude>1109527.423519068</altitude>
+                <heading>0.0</heading>
+                <tilt>0.0</tilt>
+                <range>896556.3547700292</range>
+                <altitudeMode>clampToGround</altitudeMode>
+            </LookAt>
+            <Url>
+                <href>https://gis.ccamlr.org:443/geoserver/gis/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=gis:CCAMLR_MPA_Planning_Domains&amp;styles=mpa_planning_domain&amp;height=2048&amp;width=2048&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:false;KMSCORE:40;MODE:refresh;SUPEROVERLAY:false</href>
+                <refreshInterval>0.0</refreshInterval>
+                <viewRefreshMode>onStop</viewRefreshMode>
+                <viewRefreshTime>1.0</viewRefreshTime>
+                <viewBoundScale>1.0</viewBoundScale>
+            </Url>
+        </NetworkLink>
+    </Document>
+</kml>
