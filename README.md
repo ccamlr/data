@@ -2,41 +2,33 @@
 
 ## Introduction
 
-This repository provides publicly available data for [Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR)](https://www.ccamlr.org) members and other interested parties.
-
-This repository replaces the previously used website at data.ccamlr.org.
+This repository provides publicly available data for [Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR)](https://www.ccamlr.org) Members and other interested parties.
 
 ## Releases and Change Management
 
-The published versions of this repository and the change notes are available through GitHub [Releases](https://github.com/ccamlr/data/releases). Individual data set readme files may contain additional specific version information. Some data sets contain a versions subfolder which contain previous versions of the data for reference.
+Notes describing all changes to this repository are available through GitHub [Releases](https://github.com/ccamlr/data/releases). All data sets maintained by this repository contain readme files with relevant metadata and sub-folders with previous versions of the data.
 
 ## Licencing, confidentiality and use
 
-The data in this repository is licensed under a [CC0 license](/LICENSE.md), except as noted in each individual data set readme.
-Each individual data set contains a readme file which specifies the applicable licence and any associated terms of use.
-Some data sets provided here are copies of or derived from data sets made available by other organisations and maybe subject to originating licencing terms.
-
-For general information regarding the access and use of CCAMLR data refer to [Access and use of CCAMLR data](https://www.ccamlr.org/en/data/access-and-use-ccamlr-data).
+The data in this repository are licensed under a [CC0 license](/LICENSE.md) unless noted differently in the data set metadata. Some data sets are copies of or derived from data sets made available by other organisations and therefore subject to originating licencing terms.
 
 ## Support
 
-For support please contact the CCAMLR Secretariat at [ccamlr@ccamlr.org](ccamlr@ccamlr.org)
+For support please contact the CCAMLR Secretariat at [ccamlr\@ccamlr.org](ccamlr@ccamlr.org)
 
-## Data Set Listing
+## Data Set Overview
 
 ### Geographical Data
 
-[Geographical Data](/geographical_data) associated with the CCAMLR convention area.
-
-| Code | Link | Description |
-| ---- | ---- | ----------- |
-| asd | [link](/geographical_data/asd) | Statistical Areas, Subareas and Divisions |
-| bathymetry | [link](/geographical_data/bathymetry) | GEBCO Bathymetry |
-| cemp | [link](/geographical_data/cemp) | CCAMLR Ecosystem Monitoring Program Sites |
-| eez | [link](/geographical_data/eez) | Exclusive Economic Zones |
-| mpa | [link](/geographical_data/mpa) | Marine Protected Areas (MPA) |
-| mpapd | [link](/geographical_data/mpapd) | MPA Planning Domains |
-| rb | [link](/geographical_data/rb) | Research Blocks |
-| sass | [link](/geographical_data/sass) | Special Area for Scientific Study |
-| ssmu | [link](/geographical_data/ssmu) | Small Scale Management Units |
-| ssru | [link](/geographical_data/ssru) | Small Scale Research Units |
+| Folder     | Link                                  | Description                                      |
+|-----------------|-------------|---------------------------------------|
+| asd        | [link](/geographical_data/asd)        | CCAMLR Statistical Areas, Subareas and Divisions |
+| cemp       | [link](/geographical_data/cemp)       | CCAMLR Ecosystem Monitoring Program Sites        |
+| eez        | [link](/geographical_data/eez)        | CCAMLR Exclusive Economic Zones                  |
+| mpa        | [link](/geographical_data/mpa)        | CCAMLR Marine Protected Areas                    |
+| mpapd      | [link](/geographical_data/mpapd)      | CCAMLR Marine Protected Area Planning Domains    |
+| rb         | [link](/geographical_data/rb)         | CCAMLR Fishery Research Blocks                   |
+| sass       | [link](/geographical_data/sass)       | CCAMLR Special Area for Scientific Study         |
+| ssmu       | [link](/geographical_data/ssmu)       | CCAMLR Fishery Small Scale Management Units      |
+| ssru       | [link](/geographical_data/ssru)       | CCAMLR Fishery Small Scale Research Units        |
+| bathymetry | [link](/geographical_data/bathymetry) | GEBCO Bathymetry                                 |
