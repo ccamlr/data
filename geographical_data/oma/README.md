@@ -1,4 +1,4 @@
-# CCAMLR Other Management Areas. Management area's used by CCAMLR which are not defined elsewhere
+# CCAMLR Other Management Areas.
 
 version: v0.9
 

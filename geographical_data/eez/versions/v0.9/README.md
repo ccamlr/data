@@ -1,4 +1,4 @@
-# CCAMLR Exclusive Economic Zones
+# Exclusive Economic Zones
 
 **version**: v0.9
 
@@ -8,7 +8,7 @@ This dataset is a subset of the Exclusive Economic Zones published by [Marine Re
 
 ## Data Citation
 
-CCAMLR. 2022. Geographical data layer: CCAMLR Exclusive Economic Zones. Version 0.9, URL: <https://github.com/ccamlr/data/tree/main/geographical_data/eez/versions/v0.9>, adapted from Flanders Marine Institute (2017). Maritime Boundaries Geodatabase: Maritime Boundaries and Exclusive Economic Zones (200NM). Available online at <https://www.marineregions.org/> accessed 2017-08-01.
+CCAMLR. 2022. Geographical data layer: Exclusive Economic Zones. Version 0.9, URL: <https://github.com/ccamlr/data/tree/main/geographical_data/eez/versions/v0.9>, adapted from Flanders Marine Institute (2017). Maritime Boundaries Geodatabase: Maritime Boundaries and Exclusive Economic Zones (200NM). Available online at <https://www.marineregions.org/> accessed 2017-08-01.
 
 ## Licence
 
