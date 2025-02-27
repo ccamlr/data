@@ -8,7 +8,7 @@ This dataset contains geospatial data (Shapefile, KML, GeoJSON) outlining the An
 
 ## Data Citation
 
-CCAMLR. 2025. Geographical data layer: Antarctic Specially Protected Areas with marine components. Version 0.9, URL: [https://github.com/ccamlr/data/tree/main/geographical_data/aspa/versions/v0.9](https://github.com/ccamlr/data/tree/main/geographical_data/aspa/versions/v0.9){.uri}
+CCAMLR. 2025. Geographical data layer: Antarctic Specially Protected Areas with marine components. Version 0.9, URL: [https://github.com/ccamlr/data/tree/main/geographical_data/aspa/versions/v0.9](https://github.com/ccamlr/data/tree/main/geographical_data/aspa/versions/v0.9)
 
 ## Licence
 
