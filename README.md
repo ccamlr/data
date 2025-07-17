@@ -21,11 +21,12 @@ For support please contact the CCAMLR Secretariat at [ccamlr\@ccamlr.org](ccamlr
 ### Geographical Data
 
 | Folder     | Link                                  | Description                                                |
-|-----------------|-----------------|--------------------------------------|
+|------------|---------------------------------------|------------------------------------------------------------|
 | asd        | [link](/geographical_data/asd)        | CCAMLR Statistical Areas, Subareas and Divisions           |
 | aspa       | [link](/geographical_data/aspa)       | Antarctic Specially Protected Areas with marine components |
 | asma       | [link](/geographical_data/asma)       | Antarctic Specially Managed Areas with marine components   |
 | cemp       | [link](/geographical_data/cemp)       | CCAMLR Ecosystem Monitoring Program Sites                  |
+| ckfmu      | [link](/geographical_data/ckfmu)      | Candidate Krill Fishery Management Units                   |
 | eez        | [link](/geographical_data/eez)        | Exclusive Economic Zones                                   |
 | mpa        | [link](/geographical_data/mpa)        | CCAMLR Marine Protected Areas                              |
 | mpapd      | [link](/geographical_data/mpapd)      | CCAMLR Marine Protected Area Planning Domains              |
