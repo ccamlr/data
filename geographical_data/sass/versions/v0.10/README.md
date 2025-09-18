@@ -14,7 +14,7 @@ CCAMLR can designate time-limited Special Areas for Scientific Study (SASS) in n
 **Previous Special Area for Scientific Study:**
 
 -   The Pine Island Glacier Stage 1 SASS
--   Designated on Designated on 15 May 2019 ([COMM CIRC 19/53](https://circs.ccamlr.org/en/comm-19-53/sc-19-52)), 10 June 2021 ([COMM CIRC 21/76](https://circs.ccamlr.org/en/comm-21-76/sc-21-104)) and 11 August 2023 ([COMM CIRC 23/79](https://circs.ccamlr.org/en/comm-23-79/sc-23-80)).
+-   Designated on 15 May 2019 ([COMM CIRC 19/53](https://circs.ccamlr.org/en/comm-19-53/sc-19-52)), 10 June 2021 ([COMM CIRC 21/76](https://circs.ccamlr.org/en/comm-21-76/sc-21-104)) and 11 August 2023 ([COMM CIRC 23/79](https://circs.ccamlr.org/en/comm-23-79/sc-23-80)).
 
 This dataset consists of a shapefile containing the polygons of the CCAMLR Special Areas for Scientific Study. Currently active Special Areas for Scientific Study are identified as such in the 'ACTIVE' column.
 
