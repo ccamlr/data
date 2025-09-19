@@ -29,7 +29,7 @@
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#CCAMLR_SASS">
 		<SimpleData name="GAR_ID">254</SimpleData>
-		<SimpleData name="GAR_Name">Pine Island Glacier</SimpleData>
+		<SimpleData name="GAR_Name">Pine Island Glacier (2019)</SimpleData>
 		<SimpleData name="GAR_Short_">SSAS_2</SimpleData>
 		<SimpleData name="GAR_Start_">2019/05/17</SimpleData>
 		<SimpleData name="GAR_End_Da">2021/05/17</SimpleData>
