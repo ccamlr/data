@@ -31,8 +31,8 @@
 		<SimpleData name="GAR_ID">254</SimpleData>
 		<SimpleData name="GAR_Name">Pine Island Glacier</SimpleData>
 		<SimpleData name="GAR_Short_">SSAS_2</SimpleData>
-		<SimpleData name="GAR_Start_">2019/05/15</SimpleData>
-		<SimpleData name="GAR_End_Da">2021/05/15</SimpleData>
+		<SimpleData name="GAR_Start_">2019/05/17</SimpleData>
+		<SimpleData name="GAR_End_Da">2021/05/17</SimpleData>
 		<SimpleData name="ACTIVE">No</SimpleData>
 		<SimpleData name="GAR_Descri">Pine Island Glacier Special Area for Scientific Study, Stage 1</SimpleData>
 	</SchemaData></ExtendedData>
@@ -44,8 +44,8 @@
 		<SimpleData name="GAR_ID">255</SimpleData>
 		<SimpleData name="GAR_Name">Pine Island Glacier (2021)</SimpleData>
 		<SimpleData name="GAR_Short_">SSAS_2</SimpleData>
-		<SimpleData name="GAR_Start_">2021/06/10</SimpleData>
-		<SimpleData name="GAR_End_Da">2023/06/10</SimpleData>
+		<SimpleData name="GAR_Start_">2021/06/12</SimpleData>
+		<SimpleData name="GAR_End_Da">2023/06/12</SimpleData>
 		<SimpleData name="ACTIVE">No</SimpleData>
 		<SimpleData name="GAR_Descri">Pine Island Glacier Special Area for Scientific Study, Stage 1 (2021)</SimpleData>
 	</SchemaData></ExtendedData>
